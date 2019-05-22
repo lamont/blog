@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to a random collection of my thoughts
 
-You can use the [editor on GitHub](https://github.com/lamont/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm just experimenting, wanted to use Jekyll, then figured out GitHub Pages would let me play with it for free.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can always view the [source](https://github.com/lamont/blog/) used to build this site via markdown.
 
 ### Markdown
 
