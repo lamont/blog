@@ -4,6 +4,10 @@ I'm just experimenting, wanted to use Jekyll, then figured out GitHub Pages woul
 
 You can always view the [source](https://github.com/lamont/blog/) used to build this site via markdown.
 
+###
+
+Trying to add some posts
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
