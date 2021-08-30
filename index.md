@@ -1,4 +1,4 @@
-## Welcome to a random collection of my thoughts
+## Welcome to an unordered collection of things I felt were worth sharing.
 
 I'm just experimenting, wanted to use Jekyll, then figured out GitHub Pages would let me play with it for free.
 
@@ -6,7 +6,13 @@ You can always view the [source](https://github.com/lamont/blog/) used to build 
 
 ### Posts
 
-Trying to add some posts
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 ### Markdown
 
@@ -24,6 +30,7 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+3. more stuff
 
 **Bold** and _Italic_ and `Code` text
 
